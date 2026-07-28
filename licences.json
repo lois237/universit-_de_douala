@@ -1,0 +1,6 @@
+{
+  "EXEMPLE-2026": { "nom": "Exemple", "status": "blocked" },
+  "USER1-2026": { "nom": "USER1", "status": "active" },
+  "USER2-2026": { "nom": "USER2", "status": "active" },
+  "USER3-2026": { "nom": "USER3", "status": "active" }
+}
